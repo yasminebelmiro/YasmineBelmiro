@@ -23,9 +23,4 @@ Habilidades que estou aprimorando:
 ## 📊GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YasmineOBelmiro&bg_color=240046&border_color=c8b6ff&title_color=b79ced&text_color=FFF)
 
-## 🖼️Meus projetos
-Alguns projetos que eu fiz como meu primeiro contato com o Front-End:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YasmineOBelmiro&repo=angular-project&bg_color=240046&border_color=30A3DC&show_icons=true&icon_color=FFAFCC&title_color=b79ced&text_color=FFF)](https://github.com/YasmineOBelmiro/angular-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YasmineOBelmiro&repo=Shoper-Books&bg_color=240046&border_color=30A3DC&show_icons=true&icon_color=FFAFCC&title_color=b79ced&text_color=FFF)](https://github.com/YasmineOBelmiro/Shoper-Books)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YasmineOBelmiro&repo=Steven_Universe&bg_color=240046&border_color=30A3DC&show_icons=true&icon_color=FFAFCC&title_color=b79ced&text_color=FFF)](https://github.com/YasmineOBelmiro/Steven_Universe)
