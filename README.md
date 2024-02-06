@@ -1,4 +1,4 @@
-    ## 🪐Yasmine Belmiro
+## 🪐Yasmine Belmiro
 
 Meu nome é Yasmine, tenho 20 anos, moro em Goiás. Atualmente estou cursando Bacharelado em Sistema de Informação em um Instituto Federale sou apaixonada pelo Front-End. Ainda sou uma iniciante na área, mas estou sempre ansiosa para aprender mais.
 
