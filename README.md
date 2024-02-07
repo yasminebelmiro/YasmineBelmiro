@@ -21,6 +21,6 @@ Habilidades que estou aprimorando:
 ![Java](https://img.shields.io/badge/java-240046?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📊GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YasmineOBelmiro&bg_color=240046&border_color=c8b6ff&title_color=b79ced&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YasmineBelmiro&bg_color=240046&border_color=c8b6ff&title_color=b79ced&text_color=FFF)
 
 
