@@ -22,6 +22,7 @@ Habilidades que estou aprimorando:
 
 ## 📊GitHub Stats
 ![YasmineBelmiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineBelmiro&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 ![YasmineBelmiro's Stats](https://github-readme-stats.vercel.app/api?username=YasmineBelmiro&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 
