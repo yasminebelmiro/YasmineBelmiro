@@ -5,8 +5,8 @@ Meu nome é Yasmine, tenho 20 anos, moro em Goiás. Atualmente estou cursando Ba
 ## 📞Conecte-se comigo
 Você pode entrar em contato comigo pelas seguintes redes:
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-240046?style=for-the-badge)](https://www.dio.me/users/devyasminebelmiro)
-[![Instagram](https://img.shields.io/badge/-Instagram-240046?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thatskymine/)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-240046?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//yasmine-oliveira-belmiro-471612282)
 [![Gmail](https://img.shields.io/badge/Gmail-240046?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devyasminebelmiro@gmail.com)
 
@@ -16,8 +16,6 @@ Habilidades que estou aprimorando:
 ![HTML5](https://img.shields.io/badge/HTML5-240046?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-240046?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-240046?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-240046?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-240046?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/java-240046?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📊GitHub Stats
