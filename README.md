@@ -18,6 +18,8 @@ Habilidades que estou aprimorando:
 ![JavaScript](https://img.shields.io/badge/JavaScript-729762?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-729762?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-729762?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-729762?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/next.js-729762?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## 📊GitHub Stats
 ![YasmineBelmiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineBelmiro&theme=merko&show_icons=true&hide_border=true&layout=compact)
