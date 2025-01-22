@@ -5,7 +5,7 @@ Meu nome é Yasmine, tenho 20 anos, moro em Goiás. Atualmente estou cursando Ba
 ## 📞Conecte-se comigo
 Você pode entrar em contato comigo pelas seguintes redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8ECAE6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//yasmine-oliveira-belmiro-471612282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8ECAE6?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in//yasmine-oliveira-belmiro-471612282)
 [![Gmail](https://img.shields.io/badge/Gmail-8ECAE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devyasminebelmiro@gmail.com)
 
 ## ⚔️Minhas habilidades
