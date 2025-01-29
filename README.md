@@ -9,14 +9,113 @@ Você pode entrar em contato comigo pelas seguintes redes:
 [![Gmail](https://img.shields.io/badge/Gmail-8ECAE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devyasminebelmiro@gmail.com)
 
 ## ⚔️Minhas habilidades
-Habilidades que estou aprimorando:
 
-![HTML5](https://img.shields.io/badge/HTML5-8ECAE6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8ECAE6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8ECAE6?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/java-8ECAE6?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-8ECAE6?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-8ECAE6?style=for-the-badge&logo=typescript&logoColor=white)
+<img align="left" 
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+  <img align="left" 
+    title="JS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    
+  <img align="left" 
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+ <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+
+  <br>
+    
+### Habilidades que estou aprimorando:
+ <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> 
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+  <img align="left" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+  <br>
 
 ## 📊GitHub Stats
 ![YasmineBelmiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineBelmiro&theme=react&show_icons=true&hide_border=false&layout=compact)
