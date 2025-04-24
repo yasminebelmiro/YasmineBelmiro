@@ -1,122 +1,62 @@
-## 🪐Yasmine Belmiro
+## 🪐 Yasmine Belmiro
 
-Meu nome é Yasmine, tenho 20 anos, moro em Goiás. Atualmente estou cursando Bacharelado em Sistema de Informação em um Instituto Federale sou apaixonada pelo Front-End. Ainda sou uma iniciante na área, mas estou sempre ansiosa para aprender mais.
+Oiê! Eu sou a Yasmine, tenho 20 anos e moro em Goiás. Atualmente curso Bacharelado em Sistemas de Informação no IF Goiano e sou completamente apaixonada pelo universo do Front-End.  
+Curiosa por natureza, estou sempre me desafiando a aprender novas tecnologias, criar interfaces que encantam e transformar código em experiência.
 
-## ⚔️Minhas habilidades
+---
 
-<img align="left" 
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+## ⚔️ Minhas Habilidades
 
-  <img align="left" 
-    title="JS" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    
-  <img align="left" 
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+### 👩‍💻 Linguagens
+<div style:"display flex">
+    <img title="HTML" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img title="CSS" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img title="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+    <img title="MySQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
 
-  <img align="left" 
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
- <img align="left" 
-    title="Babel" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" />
+### ⚙️ Ferramentas & Frameworks
+<div style:"display flex">
+    <img title="React" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img title="VSCode" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
 
-  <img align="left" 
-    title="Axios" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+### 🎨 Design
+<img title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-  <img align="left" 
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+---
 
-  <img align="left" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+## 📚 Habilidades que estou aprimorando
 
-  <img align="left" 
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+Atualmente estou me aprofundando em algumas tecnologias que vão turbinar ainda mais meus projetos:
+<div style:"display flex">
+    <img title="Tailwindcss" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img title="Next.js" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+    <img title="TypeScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+    <img title="Node.js" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+    <img title="Bootstrap" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+</div>
 
-  <img align="left" 
-    title="MySql" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+---
 
-  <img align="left" 
-    title="VSCode" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+## 📊 GitHub Stats
 
-  <img align="left" 
-    title="NPM" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineBelmiro&theme=react&show_icons=true&hide_border=false&layout=compact)
 
-  <img align="left" 
-    title="Yarn" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+![Stats](https://github-readme-stats.vercel.app/api?username=YasmineBelmiro&theme=react&show_icons=true&hide_border=false&count_private=true)
 
-  <br>
-    
-### Habilidades que estou aprimorando:
- <img align="left" 
-    title="Nextjs" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> 
+---
 
-  <img align="left" 
-    title="Typescript" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+## 📞 Conecte-se comigo
 
-  <img align="left" 
-    title="Nodejs" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+Quer bater um papo, trocar ideia ou me chamar pra um projeto?
 
-  <img align="left" 
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <br>
-
-## 📊GitHub Stats
-![YasmineBelmiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineBelmiro&theme=react&show_icons=true&hide_border=false&layout=compact)
-
-![YasmineBelmiro's Stats](https://github-readme-stats.vercel.app/api?username=YasmineBelmiro&theme=react&show_icons=true&hide_border=false&count_private=true)
-
-## 📞Conecte-se comigo
-Você pode entrar em contato comigo pelas seguintes redes:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8ECAE6?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in//yasmine-oliveira-belmiro-471612282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8ECAE6?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/yasmine-oliveira-belmiro-471612282)  
 [![Gmail](https://img.shields.io/badge/Gmail-8ECAE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devyasminebelmiro@gmail.com)
+
+---
+
+✨ *Obrigada por visitar meu perfil! Bora codar com café e caos controlado.* ☕💻
