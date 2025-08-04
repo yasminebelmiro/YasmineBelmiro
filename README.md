@@ -1,62 +1,39 @@
-## 🪐 Yasmine Belmiro
+# 🪐 Yasmine Belmiro  
 
-Oiê! Eu sou a Yasmine, tenho 20 anos e moro em Goiás. Atualmente curso Bacharelado em Sistemas de Informação no IF Goiano e sou completamente apaixonada pelo universo do Front-End.  
-Curiosa por natureza, estou sempre me desafiando a aprender novas tecnologias, criar interfaces que encantam e transformar código em experiência.
+🎯 Frontend Developer | React & TypeScript  
+📍 Pires do Rio, GO | 💌 devyasminebelmiro@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yasmine-oliveira-belmiro-471612282) | 🔗 [GitHub](https://github.com/YasmineBelmiro)
 
 ---
 
-## ⚔️ Minhas Habilidades
+## 🚀 Sobre mim
+Oiê! Eu sou a Yasmine, tenho 21 anos e curso **Sistemas de Informação no IF Goiano**.  
+Sou apaixonada por transformar ideias em interfaces que encantam. Curiosa por natureza, estou sempre explorando novas tecnologias e criando projetos que unem código limpo e uma boa experiência do usuário.  
+
+---
+
+## 🛠️ Stack Tecnológica
 
 ### 👩‍💻 Linguagens
-<div style:"display flex">
-    <img title="HTML" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img title="CSS" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img title="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-    <img title="MySQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+### ⚡ Frameworks & Ferramentas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Ferramentas & Frameworks
-<div style:"display flex">
-    <img title="React" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img title="VSCode" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</div>
-
-### 🎨 Design
-<img title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
----
-
-## 📚 Habilidades que estou aprimorando
-
-Atualmente estou me aprofundando em algumas tecnologias que vão turbinar ainda mais meus projetos:
-<div style:"display flex">
-    <img title="Tailwindcss" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-    <img title="Next.js" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-    <img title="TypeScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-    <img title="Node.js" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-    <img title="Bootstrap" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-</div>
+### 📚 Em evolução
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineBelmiro&theme=react&show_icons=true&hide_border=false&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YasmineBelmiro&theme=react&show_icons=true&hide_border=false&count_private=true)
-
----
-
-## 📞 Conecte-se comigo
-
-Quer bater um papo, trocar ideia ou me chamar pra um projeto?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8ECAE6?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/yasmine-oliveira-belmiro-471612282)  
-[![Gmail](https://img.shields.io/badge/Gmail-8ECAE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devyasminebelmiro@gmail.com)
-
----
-
-✨ *Obrigada por visitar meu perfil! Bora codar com café e caos controlado.* ☕💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineBelmiro&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineBelmiro&show_icons=true&theme=radical)
